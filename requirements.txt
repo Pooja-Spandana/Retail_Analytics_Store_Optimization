@@ -2,6 +2,7 @@
 numpy
 pandas
 scipy
+statsmodels
 
 # Visualizations
 seaborn
